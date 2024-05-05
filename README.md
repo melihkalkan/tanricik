@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanricik
+- 👋 Hi, I’m @melihhkalkan
 - 👀 I'm currently interested in coding
 - 🌱 I’m currently learning programming
 - 📫 How to reach me
